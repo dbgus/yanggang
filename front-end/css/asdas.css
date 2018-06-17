@@ -1,0 +1,34 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+
+.story
+{   
+    width: 60%;
+    border: 1px solid black;
+    margin: 30px auto;
+}
+.head
+{
+    width: 70%;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+}
+.title
+{
+    font-size: 20px;
+}
+
+.writer
+{
+    float: right;
+}
+
+.content
+{
+    font-size: 20px;
+    text-align: center;
+}
